@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "ハレンチ",
+  "base_artist": "Chanmina",
+  "createdAt": "2025-12-12T16:02:55.646386Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ハレンチ (Live) - Harenchi (Live)",
+      "artist": "CHANMINA",
+      "has_synced": true,
+      "path": "select/01_ハレンチ_(Live)_-_Harenchi_(Live)_CHANMINA.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ハレンチ - Live",
+      "artist": "CHANMINA",
+      "has_synced": true,
+      "path": "select/02_ハレンチ_-_Live_CHANMINA.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ハレンチ",
+      "artist": "ちゃんみな",
+      "has_synced": false,
+      "path": "select/pl_01_ハレンチ_ちゃんみな.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ハレンチ",
+      "artist": "ちゃんみな",
+      "has_synced": false,
+      "path": "select/pl_02_ハレンチ_ちゃんみな.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "ハレンチ",
+      "artist": "ちゃんみな",
+      "has_synced": false,
+      "path": "select/pl_03_ハレンチ_ちゃんみな.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "ハレンチ",
+      "artist": "ちゃんみな",
+      "has_synced": false,
+      "path": "select/pl_04_ハレンチ_ちゃんみな.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "ハレンチ",
+      "artist": "ちゃんみな",
+      "has_synced": false,
+      "path": "select/pl_05_ハレンチ_ちゃんみな.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "ハレンチ",
+      "artist": "ちゃんみな",
+      "has_synced": false,
+      "path": "select/pl_06_ハレンチ_ちゃんみな.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "ハレンチ",
+      "artist": "ちゃんみな",
+      "has_synced": false,
+      "path": "select/pl_07_ハレンチ_ちゃんみな.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "ハレンチ (Official Music Video) -",
+      "artist": "ちゃんみな",
+      "has_synced": false,
+      "path": "select/pl_08_ハレンチ_(Official_Music_Video)_-_ちゃんみな.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "ハレンチ - From THE FIRST TAKE",
+      "artist": "ちゃんみな",
+      "has_synced": false,
+      "path": "select/pl_09_ハレンチ_-_From_THE_FIRST_TAKE_ちゃんみな.txt"
+    }
+  ]
+}
